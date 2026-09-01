@@ -5,6 +5,8 @@ To design and develop a prototype application for Named Entity Recognition (NER)
 
 ### PROBLEM STATEMENT:
 
+The challenge is to build an NER system capable of identifying named entities (e.g., people, organizations, locations) in text, using a pre-trained BART model fine-tuned for this task. The system should be interactive, allowing users to input text and see the recognized entities in real-time.
+
 ### DESIGN STEPS:
 
 ### STEP 1: Fine-tune the BART model
